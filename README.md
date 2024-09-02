@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @high-rolls
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on game dev
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: @paulo_vitor_pivotto on Instagram
 
 <!---
